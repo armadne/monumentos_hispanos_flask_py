@@ -1,0 +1,1 @@
+mettre les fichiers static 1 et static 2 dans un meme dossier appeller static
